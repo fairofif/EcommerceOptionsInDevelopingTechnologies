@@ -1,4 +1,7 @@
 # NOTES TO VIEWER
+
+Plotly is one of libraries that has features to plotting with attractive results.
+
 This Notebook File (ipynb) has a plotting session using plotly which if you open the notebook (ipynb) it on github, it won't show the plot. 
 
 So you can open the notebook in nbviewer or just simply click the link below to see the notebook with a complete plot.
